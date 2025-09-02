@@ -14,8 +14,7 @@ int main() {
     int turisticoscarta1, turisticoscarta2;
     float densidadecarta1, densidadecarta2;
     float percapita1, percapita2;
-    char cartavencedora[20];
-
+    
     printf ("Bem-vindos ao jogo de Super Trunfo! \n");  //mensagem inicial do jogo
     printf("\n** Vamos cadastrar a 1º carta **\n");     //mensagem informando o início do cadastramento da 1º carta
 
